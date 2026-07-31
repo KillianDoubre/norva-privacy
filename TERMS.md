@@ -16,8 +16,8 @@ By installing and using it, you accept these terms. If you do not, uninstall it.
 You need to be old enough to hold an account with your app store, and if you are
 under 18 you need a parent's or guardian's agreement to these terms.
 
-Norva is published by **Killian Doubre**. Write to **contactnorvaapp@gmail.com**
-about anything in these terms.
+Norva is published by **Killian Doubre**, 5B Rue Léon Bertrand, 06200 Nice, France.
+Write to **contactnorvaapp@gmail.com** about anything in these terms.
 
 ## What Norva is not
 
@@ -133,5 +133,7 @@ These terms may change with new versions. Continuing to use the app after a chan
 means accepting it.
 
 ## Contact
+
+**Killian Doubre** — 5B Rue Léon Bertrand, 06200 Nice, France
 
 **contactnorvaapp@gmail.com**

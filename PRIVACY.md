@@ -112,8 +112,10 @@ app says so before it does.
 
 ## Contact
 
+Norva is published by **Killian Doubre**, 5B Rue Léon Bertrand, 06200 Nice, France.
+
 Questions about this policy, or about anything the app does with your data:
 **contactnorvaapp@gmail.com**
 
-This is the address Norva also identifies itself with when it asks Open Food Facts
-for a product, as their API requires.
+That email address is also the one Norva identifies itself with when it asks Open
+Food Facts for a product, as their API requires.
