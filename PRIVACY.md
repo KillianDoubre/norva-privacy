@@ -1,15 +1,17 @@
 # Privacy policy
 
-**Norva** · last updated 29 July 2026
+**Norva** · last updated 16 August 2026
 
 ---
 
 ## The short version
 
 Norva has no account, no server and no analytics. Everything you enter and
-everything you scan stays on your phone. What leaves it goes to one place only —
-Open Food Facts, to look food up: the barcode you scanned, the aisle you are
-asking about, and the product photos the app displays.
+everything you scan stays on your phone. What leaves it goes to two places, and
+only two: **Open Food Facts**, to look food up — the barcode you scanned, the
+aisle you are asking about, and the product photos the app displays — and, **only
+if you subscribe**, the service that checks your subscription is still valid. That
+second one never learns anything about your food.
 
 ## What stays on your phone
 
@@ -27,8 +29,8 @@ None of this is transmitted anywhere. Uninstalling the app deletes all of it.
 
 ## What leaves your phone
 
-Every request below goes to [Open Food Facts](https://openfoodfacts.org) and
-nowhere else. Each one carries your device's IP address, as any web request does,
+Every request in this section goes to [Open Food Facts](https://openfoodfacts.org)
+and nowhere else. Each one carries your device's IP address, as any web request does,
 so Open Food Facts can see what is being looked up from your connection. They are
 a non-profit collaborative database and their own privacy policy governs what they
 do with it.
@@ -50,22 +52,44 @@ picture, so opening your history asks for the photos of the products in it.
 If you tap a scientific source in _Method and sources_, your browser opens
 PubMed. That is a normal web visit, subject to PubMed's policy.
 
-**Nothing else is sent, ever** — not your profile, not your scans, not your
-grades, not your settings.
+**Nothing else is sent to Open Food Facts, ever** — not your profile, not your
+scans, not your grades, not your settings.
+
+## If you subscribe
+
+Only if you subscribe, and only then, a second service is involved:
+[RevenueCat](https://www.revenuecat.com/privacy), which checks with the store that
+your subscription is still valid and answers the app yes or no.
+
+What it receives: **an anonymous identifier** generated on your device, the store
+receipt for the purchase, which plan you took, and your device's IP address as any
+web request carries. There is no account behind that identifier, nothing links it
+to your name or your email, and it is not shared between apps.
+
+What it never receives: your profile, your scans, your grades, your body mass,
+your goals, your settings. **Nothing about your food goes anywhere near it.**
+
+Uninstalling the app ends this. If you never subscribe, this service is never
+contacted at all.
 
 ## What Norva does not do
 
 - No account, no sign-in, no email address.
 - No analytics, no crash reporting, no advertising, no tracking of any kind.
 - No profiling, no automated decision-making about you.
-- Nothing is sold or shared, because nothing is collected.
+- Nothing about you or your food is ever sold, shared or used for advertising —
+  including the subscription check, which exists to answer one question and is
+  never used for anything else.
 
 ## Subscriptions
 
 Payment is handled entirely by the App Store or Google Play. Norva never sees your
-card, your billing address or your store account. It receives one answer from the
-store — whether this device holds an active subscription — and stores that answer
-on the device.
+card, your billing address or your store account. It receives one answer — whether
+this device holds an active subscription — and stores that answer on the device.
+
+That answer is checked through RevenueCat, described above. It is the only thing
+in this app that talks to a service about you, it happens only if you subscribe,
+and what it exchanges is a receipt and an anonymous identifier.
 
 ## The camera
 
@@ -94,6 +118,11 @@ us — there is no "us" to send to.
 There is no data to request from us, correct with us, or ask us to erase, because
 we hold none. Under GDPR terms: we are not a data controller for anything you
 enter, since it never reaches us.
+
+The one exception is the subscription record described under *If you subscribe* —
+an anonymous identifier and a store receipt, held by RevenueCat on our behalf as a
+processor. Write to the address below and we will have it erased; it contains
+nothing about you beyond the fact that a purchase was made.
 
 ## Health data
 
